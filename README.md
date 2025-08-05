@@ -51,7 +51,7 @@ npm run dev
 
 
 ## Project Structure
-
+```
 src/
 │
 ├── components/
@@ -63,7 +63,7 @@ src/
 │
 ├── App.tsx
 └── main.tsx
-
+```
 
 ## Future Enhancements
 
